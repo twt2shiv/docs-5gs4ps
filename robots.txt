@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-355rma.pulaucuan.org/sitemap.xml
